@@ -1,0 +1,15 @@
+D:\Shiv\.NetCore\CheckoutSystem\CheckoutSystem\bin\Debug\net6.0\CheckoutSystem.exe
+D:\Shiv\.NetCore\CheckoutSystem\CheckoutSystem\bin\Debug\net6.0\CheckoutSystem.deps.json
+D:\Shiv\.NetCore\CheckoutSystem\CheckoutSystem\bin\Debug\net6.0\CheckoutSystem.runtimeconfig.json
+D:\Shiv\.NetCore\CheckoutSystem\CheckoutSystem\bin\Debug\net6.0\CheckoutSystem.dll
+D:\Shiv\.NetCore\CheckoutSystem\CheckoutSystem\bin\Debug\net6.0\CheckoutSystem.pdb
+D:\Shiv\.NetCore\CheckoutSystem\CheckoutSystem\obj\Debug\net6.0\CheckoutSystem.csproj.AssemblyReference.cache
+D:\Shiv\.NetCore\CheckoutSystem\CheckoutSystem\obj\Debug\net6.0\CheckoutSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shiv\.NetCore\CheckoutSystem\CheckoutSystem\obj\Debug\net6.0\CheckoutSystem.AssemblyInfoInputs.cache
+D:\Shiv\.NetCore\CheckoutSystem\CheckoutSystem\obj\Debug\net6.0\CheckoutSystem.AssemblyInfo.cs
+D:\Shiv\.NetCore\CheckoutSystem\CheckoutSystem\obj\Debug\net6.0\CheckoutSystem.csproj.CoreCompileInputs.cache
+D:\Shiv\.NetCore\CheckoutSystem\CheckoutSystem\obj\Debug\net6.0\CheckoutSystem.dll
+D:\Shiv\.NetCore\CheckoutSystem\CheckoutSystem\obj\Debug\net6.0\refint\CheckoutSystem.dll
+D:\Shiv\.NetCore\CheckoutSystem\CheckoutSystem\obj\Debug\net6.0\CheckoutSystem.pdb
+D:\Shiv\.NetCore\CheckoutSystem\CheckoutSystem\obj\Debug\net6.0\CheckoutSystem.genruntimeconfig.cache
+D:\Shiv\.NetCore\CheckoutSystem\CheckoutSystem\obj\Debug\net6.0\ref\CheckoutSystem.dll
